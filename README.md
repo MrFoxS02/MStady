@@ -1,0 +1,2 @@
+# MStady
+MyMagProjects
